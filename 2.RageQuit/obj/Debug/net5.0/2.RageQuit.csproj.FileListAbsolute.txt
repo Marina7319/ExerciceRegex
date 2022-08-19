@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.exe
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.deps.json
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.runtimeconfig.json
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.dll
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\ref\2.RageQuit.dll
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\bin\Debug\net5.0\2.RageQuit.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.dll
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\ref\2.RageQuit.dll
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\2.RageQuit\obj\Debug\net5.0\2.RageQuit.genruntimeconfig.cache

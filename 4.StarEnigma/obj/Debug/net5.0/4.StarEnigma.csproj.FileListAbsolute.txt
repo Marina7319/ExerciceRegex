@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.exe
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.deps.json
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.runtimeconfig.json
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.dll
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\ref\4.StarEnigma.dll
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\bin\Debug\net5.0\4.StarEnigma.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.dll
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\ref\4.StarEnigma.dll
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\4.StarEnigma\obj\Debug\net5.0\4.StarEnigma.genruntimeconfig.cache

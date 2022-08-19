@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.exe
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.deps.json
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.runtimeconfig.json
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.dll
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\ref\5.NetherRealms.dll
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\bin\Debug\net5.0\5.NetherRealms.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.dll
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\ref\5.NetherRealms.dll
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\5.NetherRealms\obj\Debug\net5.0\5.NetherRealms.genruntimeconfig.cache

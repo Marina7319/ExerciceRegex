@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.exe
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.deps.json
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.runtimeconfig.json
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.dll
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\ref\3.SoftUniBarIncome.dll
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\bin\Debug\net5.0\3.SoftUniBarIncome.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.dll
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\ref\3.SoftUniBarIncome.dll
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.pdb
+C:\Users\Marina\source\repos\ExercisesRegex\3.SoftUniBarIncome\obj\Debug\net5.0\3.SoftUniBarIncome.genruntimeconfig.cache
