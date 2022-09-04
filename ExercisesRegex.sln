@@ -19,9 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.WinningTicket", "1.Winnin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.RageQuit", "2.RageQuit\2.RageQuit.csproj", "{8C70499A-9805-4CC5-A835-1B53F2D29A12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.PostOffice", "3.PostOffice\3.PostOffice.csproj", "{437130F2-A75B-42E8-8EAA-F5F173123785}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Santa'sSecretHelper", "4.Santa'sSecretHelper\4.Santa'sSecretHelper.csproj", "{83BF44CA-D84F-4191-8B30-03E69A404315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Santa'sSecretHelper", "4.Santa'sSecretHelper\4.Santa'sSecretHelper.csproj", "{83BF44CA-D84F-4191-8B30-03E69A404315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,10 +59,6 @@ Global
 		{8C70499A-9805-4CC5-A835-1B53F2D29A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C70499A-9805-4CC5-A835-1B53F2D29A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C70499A-9805-4CC5-A835-1B53F2D29A12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{437130F2-A75B-42E8-8EAA-F5F173123785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{437130F2-A75B-42E8-8EAA-F5F173123785}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{437130F2-A75B-42E8-8EAA-F5F173123785}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{437130F2-A75B-42E8-8EAA-F5F173123785}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83BF44CA-D84F-4191-8B30-03E69A404315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83BF44CA-D84F-4191-8B30-03E69A404315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83BF44CA-D84F-4191-8B30-03E69A404315}.Release|Any CPU.ActiveCfg = Release|Any CPU
